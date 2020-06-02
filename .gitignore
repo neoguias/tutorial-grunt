@@ -1,3 +1,11 @@
+# CSS / SASS
+.sass-cache
+css
+
+# JS
+js
+
+
 # Logs
 logs
 *.log
