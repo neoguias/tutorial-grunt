@@ -1,0 +1,29 @@
+{
+  "name": "tutorial-grunt",
+  "version": "1.0.0",
+  "description": "Tutorial de Grunt Neoguias.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoguias/tutorial-grunt.git"
+  },
+  "author": "Edu Lazaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neoguias/tutorial-grunt/issues"
+  },
+  "homepage": "https://github.com/neoguias/tutorial-grunt#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-postcss": "^0.9.0"
+  }
+}

@@ -1,0 +1,11 @@
+@import 'base';
+
+main {
+  max-width: $max-width;
+  margin: 15px;
+  color: $font-color;
+  display: block;
+  h1 {
+    font-size: $font-size;
+  }
+}
